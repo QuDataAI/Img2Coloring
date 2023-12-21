@@ -7,7 +7,7 @@ This repository contains scripts, data and models for the Img2Coloring task - tu
 Folder with datasets of this project
 
 - *model/*</br>
-Folder with saved weights of trained GAN Pix2Pix model on anime data and Img2LineDrawings
+Folder with saved weights of trained GAN Pix2Pix model on anime data and Img2LineDrawings. To get trained models also visit this Kaggle dataset: https://www.kaggle.com/datasets/kerrit/img2coloring-pix2pix-trained-models
 
 - *ColoringBook_filters_and_Style_Transer.ipynb*</br>
 Scripts for task with convolutional filters, and style transfer for Img2Coloring
