@@ -28,8 +28,8 @@ https://serre-lab.clps.brown.edu/resource/multicue/
 This dataset is realistic photo dataset with edges maps from different annotators. This edges not strict, so in this scripts multicue dataset was preprocessed to merge edges for same photos between annotators (in Multicue_dataset_preprocessing.ipynb). Final result - dataset "border_dataset.zip" in "datasets" folder.  
 
 Typical image and merged borders from this dataset:
-![borders_dataset_1.png](sample_images\borders_dataset_1.png)
-![borders_dataset_2.png](sample_images\borders_dataset_2.png)
+![borders_dataset_1.png](sample_images/borders_dataset_1.png)
+![borders_dataset_2.png](sample_images/borders_dataset_2.png)
 
 - BIPED dataset</br>
 https://www.kaggle.com/datasets/xavysp/biped
@@ -55,27 +55,27 @@ This is samples for different approaches for Img2Coloring task.
 ### Filters
 Default convolutional filters for edge detections. </br>
 Canny filter
-![Canny1](sample_images\canny_1.png)
-![Canny2](sample_images\canny_2.png)
+![Canny1](sample_images/canny_1.png)
+![Canny2](sample_images/canny_2.png)
 </br>
 Sobel filter
-![Sobel1](sample_images\sobel_1.png)
-![Sobel2](sample_images\sobel_2.png)
+![Sobel1](sample_images/sobel_1.png)
+![Sobel2](sample_images/sobel_2.png)
 
 ### Pretrained models
 Results for pretrained "Img2LineDrawings" model:
-![Img2LineDrawings](sample_images\Img2LineDrawings.png)
+![Img2LineDrawings](sample_images/Img2LineDrawings.png)
 Results for pretrained "ControlNet" model:
-![ControlNet](sample_images\control_net.png)
+![ControlNet](sample_images/control_net.png)
 
 ### Trained own Pix2Pix model
 Results for anime and kids images for own Pix2Pix model (from epoch 12). </br>
 Anime images samples:
-![pix2pixanime](sample_images\pix2pix_trained_anime.png)
+![pix2pixanime](sample_images/pix2pix_trained_anime.png)
 Kids images samples:
-![pix2pixkids](sample_images\pix2pix_trained_kids.png)
+![pix2pixkids](sample_images/pix2pix_trained_kids.png)
 Kids images 2 samples:
-![pix2pixkids](sample_images\pix2pix_trained_kids2.png)
+![pix2pixkids](sample_images/pix2pix_trained_kids2.png)
 
 
 
