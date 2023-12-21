@@ -1,0 +1,5 @@
+datasets/AbsKidsImg2Line.zip filter=lfs diff=lfs merge=lfs -text
+datasets/AbsKidsTextImg2Line.zip filter=lfs diff=lfs merge=lfs -text
+datasets/AbsOtherImg2Line.zip filter=lfs diff=lfs merge=lfs -text
+datasets/border_dataset.zip filter=lfs diff=lfs merge=lfs -text
+model/model.pth filter=lfs diff=lfs merge=lfs -text
